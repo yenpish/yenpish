@@ -2,33 +2,22 @@
 
 🎓 Software Engineering student at Universiti Malaya.
 
-I'm interested in software engineering, mobile application development, and game development. I enjoy building practical software projects through coursework, hackathons, and personal learning.
+I'm interested in software engineering, mobile application development, and game development. Most of the projects here were developed through university coursework, hackathons, and personal learning.
 
 ## Featured Projects
 
-### 💰 AI Spending Decision Assistant
-AI-powered spending assistant developed during UMHackathon 2026.
+### 🎮 Chazo: Fatebound
+
+A 2D RPG developed using Godot Engine.
 
 ### 🦠 Outbreaker
-Android serious game for outbreak investigation using Kotlin and Jetpack Compose.
 
-### 🎮 Chazo: Fatebound
-2D RPG developed using Godot Engine.
+An Android serious game that teaches outbreak investigation through interactive gameplay.
 
-### 🤖 Discord Moderator Bot
-Python moderation bot developed as a learning project.
+### 💰 AI Spending Decision Assistant
 
-## Technical Skills
-
-### Programming
-- Python
-- C++
-
-### Tools
-- Android Studio
-- Godot Engine
-- Microsoft Office
+An AI-powered spending assistant developed during UMHackathon 2026.
 
 ---
 
-📫 Feel free to explore my repositories.
+Thanks for visiting my profile!
