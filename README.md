@@ -2,7 +2,7 @@
 
 🎓 **Software Engineering Student @ Universiti Malaya**
 
-Interested in **Software Engineering**, **Android Development**, and **Game Development**. This GitHub showcases my university coursework, hackathon projects, and personal learning.
+Interested in **Software Engineering**, **Android Development**, and **Game Development**. This GitHub showcases my university coursework, hackathon project, and personal learning.
 
 ---
 
