@@ -29,5 +29,3 @@ Interested in **Software Engineering**, **Android Development**, and **Game Deve
 ![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ---
-
-Thanks for visiting my profile!
