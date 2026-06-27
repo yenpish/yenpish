@@ -2,21 +2,44 @@
 
 🎓 Software Engineering student at Universiti Malaya.
 
-I'm interested in software engineering, mobile application development, and game development. Most of the projects here were developed through university coursework, hackathons, and personal learning.
+I'm interested in software engineering, Android development, and game development. This GitHub showcases university coursework, hackathon projects, and personal learning.
+
+---
 
 ## Featured Projects
 
-### 🎮 Chazo: Fatebound
-
-A 2D RPG developed using Godot Engine.
-
 ### 🦠 Outbreaker
+Android serious game for outbreak investigation using Kotlin and Jetpack Compose.
 
-An Android serious game that teaches outbreak investigation through interactive gameplay.
+### 🎮 Chazo: Fatebound
+2D top-down RPG developed with Godot Engine.
 
-### 💰 AI Spending Decision Assistant
+### 💰 AI Spending Decision Assistant *(Team Project)*
+AI-powered spending assistant developed during UMHackathon 2026.
 
-An AI-powered spending assistant developed during UMHackathon 2026.
+**My contributions**
+- Chat interface
+- Affordability checker
+- Explainability module
+
+➡️ Repository: https://github.com/MuhdFariq/ai_spending_decision_assistant
+
+### 🤖 Discord Moderator Bot
+Python Discord moderation bot.
+
+---
+
+## Technologies
+
+**Programming Languages**
+
+- Python
+- C++
+
+**Tools**
+
+- Android Studio
+- Godot Engine
 
 ---
 
